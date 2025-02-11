@@ -14,12 +14,12 @@
     <artifactId>directory-watcher</artifactId>
     <packaging>jar</packaging>
     <name>directory watcher</name>
-    <version>${core.artifact.version}-${core.artifact.release}</version>
+    <version>0.18.0-r7-SNAPSHOT</version>
 
     <properties>
         <!-- change release here-->
         <core.artifact.version>0.18.0</core.artifact.version>
-        <core.artifact.release>r7</core.artifact.release>
+
 
         <!-- transitive dependency versions -->
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
