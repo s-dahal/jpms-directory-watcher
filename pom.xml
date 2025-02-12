@@ -25,6 +25,7 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <jna.version>5.12.1</jna.version>
         <slf4j.version>1.7.36</slf4j.version>
+        <hapi-fhir-structures-r4.version>7.0.2</hapi-fhir-structures-r4.version>
 
         <maven.moditect.plugin>1.2.2.Final</maven.moditect.plugin>
     </properties>
@@ -55,7 +56,7 @@
             <dependency>
                 <groupId>ca.uhn.hapi.fhir</groupId>
                 <artifactId>hapi-fhir-structures-r4</artifactId>
-                <version>7.0.2</version>
+                <version>${hapi-fhir-structures-r4.version}</version>
             </dependency>
         </dependencies>
     </dependencyManagement>
