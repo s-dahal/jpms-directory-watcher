@@ -19,6 +19,7 @@
     <properties>
         <!-- change release here-->
         <core.artifact.version>0.18.0</core.artifact.version>
+        <core.artifact.release>r8</core.artifact.release>
 
 
         <!-- transitive dependency versions -->
