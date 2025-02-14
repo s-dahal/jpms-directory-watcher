@@ -14,7 +14,7 @@
     <artifactId>directory-watcher</artifactId>
     <packaging>jar</packaging>
     <name>directory watcher</name>
-    <version>0.18.0-r8-SNAPSHOT</version>
+    <version>0.18.0-r8</version>
 
     <properties>
         <!-- change release here-->
